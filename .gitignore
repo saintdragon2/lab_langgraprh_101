@@ -173,3 +173,4 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 chap13_rag_langgraph/chroma_store/dd14c428-1442-4266-b283-3972a33f129b/header.bin
+chap15/data/
